@@ -11,9 +11,3 @@ the disease detection proces by using
 Convolutional Neural Networks (CNNs) to
 analyze leaf images, enabling rapid identification
 of healthy versus diseased plants
-
-
-
-If you want the dataset mail me:
-karthik.khandavalli.rjy@gmail.com
-reach.karthik.khandavalli@gmail.com
