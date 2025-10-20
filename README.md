@@ -1,5 +1,5 @@
 # Leaf-Lens
-This is a Deep Learning Project
+This is a Deep Learning Project.
 The problem addressed by the LeafLens project is
 the challenge of early and accurate detection of
 plant diseases, which often go unnoticed until they
